@@ -1,23 +1,41 @@
 body{
     background-color: #191916;
 }
-p{
+p.focal{
     font-family: sans-serif;
     text-align: justify;
     color: #7A686D;
     font-size; 18px;
 }
-h1{
+h1.focal{
     text-align: center;
     color: #7A686D;
     font-family: sans-serif;
     font-size: 26px;
     font-weight: bold;
 }
-h2{
+h2.focal{
     text-align: center;
     color: #7A686D;
     font-family: sans-serif;
     font-size: 20px;
 }
-
+p.ultima{
+    font-family: sans-serif;
+    text-align: justify;
+    color: #7A686D;
+    font-size; 18px;
+}
+h1.ultima{
+    text-align: center;
+    color: #7A686D;
+    font-family: sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+h2.ultima{
+    text-align: center;
+    color: #7A686D;
+    font-family: sans-serif;
+    font-size: 20px;
+}
