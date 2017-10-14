@@ -1,6 +1,32 @@
 body{
     background-color: #191916;
 }
+
+.center{
+    margin: auto;
+    width: 1000px;
+    background-color: #191916;
+}
+
+#table div{
+    margin: auto;
+    width: 1000px ;
+    background-color: #191916;
+}
+#table table{
+    background-color: #323539;
+}
+#table th, td{
+    border: 0px;
+    padding: 0px;
+    border-spacing: 0px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #56564A;
+    width: 1000px;
+    font-family: sans-serif;
+    color: white;
+}
 p.focal{
     font-family: sans-serif;
     text-align: justify;
