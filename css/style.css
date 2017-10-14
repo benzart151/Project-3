@@ -1,15 +1,14 @@
 body{
-   background-image: url(../images/musicbackground.jpg);
+   background-image: url(../images/color-scheme-background.png);
     background-color: #323539;
 }
-.background{
+#background{
     background-color: #191916;
-    width: 1000px;
-    height: auto;
-    margin: auto;
 }
 .center{
     margin: auto;
+    padding: 0;
+    border: 0;
     width: 1000px;
     background-color: #191916;
 }
