@@ -2,7 +2,12 @@ body{
    background-image: url(../images/musicbackground.jpg);
     background-color: #323539;
 }
-
+.background{
+    background-color: #191916;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
 .center{
     margin: auto;
     width: 1000px;
