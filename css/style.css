@@ -3,6 +3,7 @@ body{
     background-color: #323539;
 }
 
+/*LINK STYLING*/
 a:link{
     color: #B3AB39;
 }
@@ -16,16 +17,11 @@ a:active{
     color: #522D79;
 }
 
+/*ID's*/
 #background{
     background-color: #191916;
 }
-.center{
-    margin: auto;
-    padding: 0;
-    border: 0;
-    width: 1000px;
-    background-color: #191916;
-}
+
 #table td:hover{
     background-color: #A13352;
 }
@@ -56,16 +52,29 @@ a:active{
     color: white;
 }
 
-#product-table tr, th, td{
+#product-div{
     background-color: black;
     color: white;
     font-family: sans-serif;
-    text-align: left
+    text-align: left  
+}
+
+#product-table tr, th, td{
+    background-color: black;
     padding: 0;
     border: 0;
     border-spacing: 0;
 }
 
+
+/*CLASSES*/
+.center{
+    margin: auto;
+    padding: 0;
+    border: 0;
+    width: 1000px;
+    background-color: #191916;
+}
 
 .focal{
     color: white; 
@@ -104,4 +113,10 @@ h2.ultima{
     color: #2D4A76;
     font-family: sans-serif;
     font-size: 20px;
+}
+.footer{
+    padding: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: darkslategray;
 }
