@@ -1,13 +1,5 @@
-body, html{
-    height: 100%;
-    margin: 0;
-    background-image: url("images/musicbackground.jpg");
-    background-color: #676C75;
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
+body{
+    background-color: #323539;
 }
 
 .center{
