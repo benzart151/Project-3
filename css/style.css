@@ -2,6 +2,20 @@ body{
    background-image: url(../images/color-scheme-background.png);
     background-color: #323539;
 }
+
+a:link{
+    color: #B3AB39;
+}
+a:visited{
+   color: #2D4A76; 
+}
+a:hover{
+    color: #A13352;
+}
+a:active{
+    color: #522D79;
+}
+
 #background{
     background-color: #191916;
 }
@@ -53,7 +67,7 @@ body{
 }
 
 .focal{
-     color: white;   
+    color: white; 
 }
 p.focal{
     font-family: sans-serif;
