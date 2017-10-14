@@ -56,10 +56,11 @@ a:active{
     color: white;
 }
 
-#product{
+#product-table tr, th, td{
+    background-color: black;
+    color: white;
     font-family: sans-serif;
-    margin: auto;
-    width: 1000px;
+    text-align: left
     padding: 0;
     border: 0;
     border-spacing: 0;
