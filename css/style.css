@@ -50,6 +50,8 @@ a:active{
 #productheader{
     background-color: darkslategrey;
     color: white;
+    padding: 10px;
+    width: auto;
 }
 
 #product-div{
